@@ -1,0 +1,61 @@
+.main_container{
+    /* border : 1px solid black; */
+    /* height: 90vh; */
+    /* font-size: 2rem; */
+    margin: 0px;
+}
+
+.data_container{
+    background-color: #4c83b9;
+    border-radius: 10px;
+    padding : 10px 20px;
+    margin : 1rem 1rem;
+    display: flex;
+}
+
+.data{
+    /* font-size: 0.7rem; */
+    color: white;
+    padding : 20px 20px ;
+    /* font-size : 1rem; */
+    
+}
+
+.name { 
+    font-weight: 600;
+}
+.post{
+    font-weight: 300;
+
+}
+
+.data  img {  /*  phone & mail logo */
+    height: 1.5rem;
+    
+}
+
+.single_data{
+    display: flex;
+    /* justify-content: center;  */
+    align-items: center;
+    padding-top: 10px;
+    
+    
+}
+
+.sir_image {
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+.sir_image img  {
+    height: auto;
+    /* border-radius: 50%; */
+    border-radius: 40px;
+    overflow: hidden;
+    width: 15rem;
+    padding: 20px;
+
+}
